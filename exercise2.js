@@ -21,3 +21,28 @@ else{
 }
 
 //no 8
+var age='16';
+if(age>=18){
+    console.log('Can Vote')
+}
+else{
+    console.log('Cannot Vote')
+}
+
+//no 9
+var isWeekend='true'
+if(true){
+    console.log('No work today');
+}
+else{
+    console.log('Time to work')
+}
+
+// no 10
+var num='24';
+if(num%2===0){
+    console.log(num, 'is an even number');
+}
+else{
+    console.log(num, 'is an odd number');
+}
